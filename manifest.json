@@ -10,7 +10,6 @@
     },
     "content_scripts": [
       {
-        "exclude_matches": ["*://instagram.com/*"],
         "matches": ["*://*.teams.live.com/*", "*://*.meet.google.com/*"],
         "js": ["index.js"]
       }
