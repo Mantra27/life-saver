@@ -16,5 +16,5 @@
 
 >𝙃𝙤𝙬 𝙩𝙤 𝙖𝙘𝙘𝙚𝙨𝙨 𝙞𝙩?
 
-<h5> <img src="https://github.com/Mantra27/life-saver/blob/main/icons/ast.jpeg?raw=true" width="50%" height="50%"/>
+<h5> <img src="https://github.com/Mantra27/life-saver/blob/main/icons/ast.jpeg?raw=true" width="10%" height="10%"/>
 </h5>
