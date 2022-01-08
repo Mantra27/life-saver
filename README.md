@@ -2,7 +2,7 @@
 
 <h4>- A google chrome extension that will prevent you from unmuting your mic or toggling on the cam by mistake. Works with *Google Meet* and *Microsoft Teams*
 </h4>
-<img src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif" height="300" width ="300" ></img>
+<img src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif" height="200" width ="200" ></img>
 
 <h3>Download</h3>
 <a href="https://github.com/Mantra27/life-saver/releases/download/1.3.0/final.zip">https://github.com/Mantra27/life-saver/releases/download/1.3.0/final.zip</a>
@@ -16,5 +16,5 @@
 
 >𝙃𝙤𝙬 𝙩𝙤 𝙖𝙘𝙘𝙚𝙨𝙨 𝙞𝙩?
 
-<h5> <img src="https://github.com/Mantra27/life-saver/blob/main/icons/ast.jpeg?raw=true" width="10%" height="10%"/>
+<h5> <img src="https://github.com/Mantra27/life-saver/blob/main/icons/ast.jpeg?raw=true" width="20%" height="20%"/>
 </h5>
