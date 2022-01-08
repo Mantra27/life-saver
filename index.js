@@ -13,22 +13,7 @@ chrome.runtime.onMessage.addListener((msg, sender, response) => {
     will_google_meet_video = msg.meet_video;
     will_microsoft_teams_mic = msg.teams_mic;
     will_microsoft_teams_video = msg.teams_video;
-
-    // response('wufsnk')
-    // if ((msg.from === 'popup') && (msg.subject === 'DOMInfo')) {
-    //    // Collect the necessary data. 
-    //    // (For your specific requirements `document.querySelectorAll(...)`
-    //    //  should be equivalent to jquery's `$(...)`.)
-    //    var domInfo = {
-    //       total: document.querySelectorAll('*').length,
-    //       inputs: document.querySelectorAll('input').length,
-    //       buttons: document.querySelectorAll('button').length,
-    //    };
- 
-    //    // Directly respond to the sender (popup), 
-    //    // through the specified callback.
-    //    response(domInfo);
-    // }
+    
  });
 
  // for google meet..//////------------------------------------------------
@@ -115,13 +100,7 @@ var checkExist_google_mic = setInterval(function() {
     }
  }, 500);
 
- // window.onload = function(){
-//   $('.spinner-grow').delay('300')
-//     .css({'transition':'ease-out','display':'none'});
-// }
 
-
-  
 
   
   
