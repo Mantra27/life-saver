@@ -87,7 +87,7 @@ var checkExist_google_mic = setInterval(function() {
                 setTimeout(()=>{
                     document.querySelector('#microphone-button').click();
                     console.log('tried to mute the mic') 
-                }, 50)
+                }, 100)
             }
         })
     }
@@ -109,7 +109,7 @@ var checkExist_google_mic = setInterval(function() {
                     document.querySelector('#video-button').click();
                     console.log('tried to turn off the video source') 
                     
-                }, 70)
+                }, 100)
             }
         })
     }
