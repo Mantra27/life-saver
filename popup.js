@@ -28,7 +28,7 @@ let addr;
       
             document.getElementById('teams_mic').checked = result.key.teams_mic;
             document.getElementById('teams_video').checked = result.key.teams_video;
-            document.getElementById('meet_mic').checked = result.key.meet.mic;
+            document.getElementById('meet_mic').checked = result.key.meet_mic;
             document.getElementById('meet_video').checked = result.key.meet_video;
       
           });
