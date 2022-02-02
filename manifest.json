@@ -1,7 +1,7 @@
 {
-    "name": "Life Saver",
+    "name": "Life Saver v2",
     "description": "A google chrome extension that will prevent you from unmuting your mic or toggling on the cam by mistake. Works with *Google Meet* and *Microsoft Teams*",
-    "version": "1.0",
+    "version": "1.1",
   
     "manifest_version": 3,
     "icons": {
@@ -11,7 +11,8 @@
     },
     "content_scripts": [
       {
-        "matches": ["*://*.teams.live.com/*", "*://*.meet.google.com/*"],
+        "exclude_matches": ["*://instagram.com/*"],
+        "matches": ["*://*.teams.live.com/*", "*://*.meet.google.com/*", "*://*.teams.microsoft.com/*"],
         "js": ["index.js"]
       }
     ],
